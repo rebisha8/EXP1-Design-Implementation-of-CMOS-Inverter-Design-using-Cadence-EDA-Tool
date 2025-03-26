@@ -29,10 +29,12 @@ Use Spectre simulator to perform transient and DC analyses.
 Observe the output voltage waveform concerning the input voltage.
 Circuit Diagram:
 1. Schematic of CMOS Inverter:
+   
 ![Screenshot 2025-02-28 141546](https://github.com/user-attachments/assets/e6ec2356-7431-40db-847f-6bc4943a2d10)
 
 
 2. Transient Response Setup:
+   
 ![Screenshot 2025-02-28 141613](https://github.com/user-attachments/assets/6d119102-825e-4a24-860f-e0c542056cdc)
 
 3. Voltage Transfer Characteristic (VTC) Setup:
@@ -41,10 +43,12 @@ Circuit Diagram:
 
 Output
 1.Transient Analysis Output
+
 ![Screenshot 2025-02-28 141513](https://github.com/user-attachments/assets/4ca1d1ee-a39c-4d84-b508-c2628264fdc7)
 
 
 2.DC Analysis Output
+
 ![image](https://github.com/user-attachments/assets/4580def0-922d-4f4c-bb53-b7c145dd2e76)
 
 
