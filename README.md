@@ -38,6 +38,7 @@ Circuit Diagram:
 ![Screenshot 2025-02-28 141613](https://github.com/user-attachments/assets/6d119102-825e-4a24-860f-e0c542056cdc)
 
 3. Voltage Transfer Characteristic (VTC) Setup:
+   
 ![Screenshot 2025-02-28 141601](https://github.com/user-attachments/assets/f62d12d7-3ed6-4e06-9b3d-3f64ec9a6ff0)
 
 
